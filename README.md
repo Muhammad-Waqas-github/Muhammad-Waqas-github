@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Waqas
 - 👀 I’m interested in Full Stack development 
-- 🌱 I’m currently learning Front end
+- 🌱 I’m currently advancing in Frontend
 - 📫 How to reach me https://ca.linkedin.com/in/muhammad-waqas-canada
 
 <!---

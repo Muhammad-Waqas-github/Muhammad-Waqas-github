@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad-Waqas-github
+- 👋 Hi, I’m Muhammad Waqas
 - 👀 I’m interested in Full Stack development 
 - 🌱 I’m currently learning Front end
 - 📫 How to reach me https://ca.linkedin.com/in/muhammad-waqas-canada

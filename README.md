@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Waqas
-- 👀 I’m interested in Full Stack development 
-- 🌱 I’m currently advancing in Frontend
+- 👀 I’m interested in Creating Apps, Data Analytics and Automations using latest tools including AI
+- 🌱 I’m currently advancing in using AI, Frontend and Webhosting
 - 📫 How to reach me https://ca.linkedin.com/in/muhammad-waqas-canada
 - 🚀 visit my site at Muhammad-Waqas-github.github.io
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Waqas
+- 👋 Hi, I’m Waqas
 - 🛰️ view my portfolio https://waqasdev.netlify.app/
 - 👀 I’m interested in Creating Apps, Data Analytics and Automations using latest tools including AI
 - 🌱 I’m currently advancing in using AI, Frontend and Webhosting
